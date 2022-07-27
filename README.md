@@ -23,7 +23,7 @@ VALORANT EXTERNAL RELEASE C++ BYPASS / AIMBOT / ESP / SPOOFER / DRIVER / ETC
     * Save Config
   
 ### [4] : SPOOFER
-      * Soon
+      * Updated
   </details>
   
 
