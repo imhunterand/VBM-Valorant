@@ -6,7 +6,7 @@ VALORANT EXTERNAL RELEASE C++ BYPASS / AIMBOT / ESP / SPOOFER / DRIVER / ETC
 
 ## Features List
 <details>
-<summary>Features (Drop Down)</summary>
+<summary>Features (Drop Down)</summary> 
   
 ### [1] : AIMBOT
   * You can define your own shortcut keys.
