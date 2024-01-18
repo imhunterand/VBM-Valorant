@@ -14,7 +14,7 @@ VALORANT EXTERNAL RELEASE C++ BYPASS / AIMBOT / ESP / SPOOFER / DRIVER / ETC
   * Smooth 
    
 ### [2] : ESP 
-  * 2D , 3D , SKELTON , BOX 
+  * 2D , 3D , SKELTON , BOX  
   * You can turn the feature on and off by yourself 
   * Set the value to be able to show the distance you want to display.
   
