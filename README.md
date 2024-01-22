@@ -19,7 +19,7 @@ VALORANT EXTERNAL RELEASE C++ BYPASS / AIMBOT / ESP / SPOOFER / DRIVER / ETC
   * Set the value to be able to show the distance you want to display.
   
 ### [3] : MISC
-    * Crosshair 
+    * Crosshair  
     * Save Config
   
 ### [4] : SPOOFER
