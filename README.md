@@ -20,7 +20,7 @@ VALORANT EXTERNAL RELEASE C++ BYPASS / AIMBOT / ESP / SPOOFER / DRIVER / ETC
   
 ### [3] : MISC
     * Crosshair  
-    * Save Config
+    * Save Config 
   
 ### [4] : SPOOFER
       * Updated
