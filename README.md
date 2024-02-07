@@ -12,7 +12,7 @@ VALORANT EXTERNAL RELEASE C++ BYPASS / AIMBOT / ESP / SPOOFER / DRIVER / ETC
   * You can define your own shortcut keys.
   * can choose to lock the location  ( Head / Body / foot )
   * Smooth 
-   
+    
 ### [2] : ESP 
   * 2D , 3D , SKELTON , BOX  
   * You can turn the feature on and off by yourself 
